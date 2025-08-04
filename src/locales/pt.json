@@ -1,0 +1,83 @@
+{
+  "header": {
+    "title": "Differentiation Bee",
+    "home": "Início",
+    "train": "Treinamento",
+    "ranking": "Ranking",
+    "login": "Entrar / Cadastrar"
+  },
+  "home": {
+    "title": "Differentiation Bee",
+    "subtitle": "Desafie-se com derivadas em tempo real.",
+    "description": "O Differentiation Bee é uma plataforma educacional interativa focada em cálculo diferencial. Treine derivadas com precisão e velocidade em um ambiente gamificado, inspirado no Integration Bee do MIT.",
+    "features": {
+      "solo": "Modo de treino individual com feedback instantâneo.",
+      "ranking": "Sistema de pontuação e ranking global.",
+      "latex": "Expressões matemáticas renderizadas em LaTeX.",
+      "desafio": "Cronômetro regressivo para estimular o raciocínio rápido."
+    }
+  },
+  "login": {
+    "title": "Entrar ou Cadastrar",
+    "subtitle": "Acesse sua conta para salvar pontuações e acompanhar seu progresso.",
+    "username": "Nome de usuário",
+    "password": "Senha",
+    "submit": "Entrar",
+    "loading": "Carregando...",
+    "noAccount": "Ainda não tem uma conta?",
+    "signup": "Cadastrar-se"
+  },
+  "register": {
+    "title": "Crie sua conta",
+    "subtitle": "Cadastre-se para começar",
+    "username": "Nome de usuário",
+    "email": "Email",
+    "password": "Senha",
+    "submit": "Cadastrar",
+    "loading": "Carregando...",
+    "haveAccount": "Já tem uma conta?",
+    "login": "Entrar",
+    "errors": {
+      "weakPassword": "A senha deve ter pelo menos 8 caracteres, uma letra maiúscula e um número."
+    }
+  },
+  "loginPrompt": {
+    "title": "Login necessário",
+    "message": "Você precisa estar logado para acessar o treino.",
+    "button": "Fazer login"
+  },
+  "train": {
+    "welcomeTitle": "Treino de Derivadas",
+    "welcomeMessage": "Teste seus conhecimentos resolvendo derivadas!",
+    "start": "Começar",
+    "level": "Nível",
+    "score": "Pontuação",
+    "question": "Qual a derivada de:",
+    "placeholder": "Digite a derivada...",
+    "check": "Verificar",
+    "correct": "Correto!",
+    "incorrect": "Incorreto!",
+    "timeout": "Tempo esgotado!",
+    "timeUpMessage": "Você perdeu! O tempo acabou.",
+    "restart": "Reiniciar",
+    "completedTitle": "Jogo Finalizado!",
+    "completedMessage": "Você completou todos os níveis!"
+  },
+  "latex": {
+    "preview": "Pré-visualização",
+    "placeholder": "Use o teclado abaixo",
+    "delete": "Apagar",
+    "clear": "Limpar tudo",
+    "tabs": {
+      "numbers": "Números",
+      "symbols": "Símbolos",
+      "functions": "Funções"
+    }
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados.",
+    "terms": "Termos de Uso",
+    "privacy": "Privacidade",
+    "copyright": "© {{year}} Differentiation Bee"
+  }
+}
